@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cute",
+  "name": "Cute",
+  "description": "Cute 0.1",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["M3dusa"],
+  "credits": "Hi.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

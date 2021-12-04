@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "sb.love.mixin.mixins",
+  "refmap": "mixins.cute.refmap.json",
+  "client": [
+    "MixinPlayerControllerMP",
+    "MixinNetworkManager",
+    "MixinGuiNewChat"
+  ]
+}
